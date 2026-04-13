@@ -11,8 +11,12 @@ I'm a second year CSE undergraduate. I am creatively curious and a self learner.
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <img src="https://img.icons8.com/color/48/4a90e2/c-programming.png"/><img src="https://img.icons8.com/color/48/4a90e2/c-plus-plus-logo.png"/><img src="https://img.icons8.com/color/48/4a90e2/python--v1.png"/><img src="https://img.icons8.com/color/48/4a90e2/visual-studio-code-2019.png"/><img src="https://img.icons8.com/color/48/4a90e2/git.png"/><img src="https://img.icons8.com/fluent/48/4a90e2/github.png"/> </p>
-
+<p align="left"> <img src="https://img.icons8.com/color/48/4a90e2/c-programming.png"/><img src="https://img.icons8.com/color/48/4a90e2/c-plus-plus-logo.png"/><img src="https://img.icons8.com/color/48/4a90e2/python--v1.png"/><img src="https://img.icons8.com/color/48/4a90e2/visual-studio-code-2019.png"/><img src="https://img.icons8.com/color/48/4a90e2/git.png"/><img src="https://img.icons8.com/fluent/48/4a90e2/github.png"/>     <td style="border: 1px solid #ddd; padding: 8px;">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+        <img height="48px" width="48px" alt="HTML Icon" src="https://skillicons.dev/icons?i=html"/></p>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+        <img height="48px" width="48px" alt="CSS Icon" src="https://skillicons.dev/icons?i=css"/>
+      </a>
 <br>
 
 
